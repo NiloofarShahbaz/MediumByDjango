@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'medium_by_django.apps.profiles',
+    'medium_by_django.apps.articles',
 ]
 
 REST_FRAMEWORK = {

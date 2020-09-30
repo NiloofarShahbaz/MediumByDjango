@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'medium_by_django.apps.profiles',
 ]
 
 REST_FRAMEWORK = {
